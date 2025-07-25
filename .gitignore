@@ -3,5 +3,7 @@
 data/.ipynb_checkpoints/
 img/
 #img.html
+data/*.
+data/*.json
 *.jpg
 .env
